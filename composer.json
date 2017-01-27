@@ -1,0 +1,16 @@
+{
+    "name": "rabbitcms/contracts",
+    "description": "RabbitCMS contracts.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kulyk Dmytro",
+            "email": "lnkvisitor.ts@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "RabbitCMS\\Clients\\": "src/"
+        }
+    }
+}
